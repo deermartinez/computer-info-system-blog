@@ -1,14 +1,28 @@
 .flexbox-container{
-    text-align: center;
+    margin: auto;
+    width: 80%;
+
+    padding: 10px;
 }
 
 .flexbox-item{
-    text-align: center;
+    margin: auto;
+    width: 60%;
+
+    padding: 10px;
 }
 
-.form {
+input {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
+  }
+
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+      
   }
